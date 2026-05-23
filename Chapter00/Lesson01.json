@@ -1,0 +1,137 @@
+[
+  {
+    "item_id": "CH0_L0_1_Q1",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.1",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "I read books.",
+    "clean_english_speech": "i read books",
+    "full_hindi_translation": "मैं | पढ़ता हूँ | किताबें",
+    "clean_hindi_speech": "मैं पढ़ता हूँ किताबें",
+    "target_word": "I",
+    "target_pos": "Pronoun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "I", "hi": "मैं", "pos": "Pronoun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "read", "hi": "पढ़ता हूँ", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "books", "hi": "किताबें", "pos": "Noun", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_1_Q2",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.1",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "He plays hockey.",
+    "clean_english_speech": "he plays hockey",
+    "full_hindi_translation": "वह | खेलता है | हॉकी",
+    "clean_hindi_speech": "वह खेलता है हॉकी",
+    "target_word": "He",
+    "target_pos": "Pronoun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "He", "hi": "वह", "pos": "Pronoun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "plays", "hi": "खेलता है", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "hockey", "hi": "हॉकी", "pos": "Noun", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_1_Q3",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.1",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "She writes letters.",
+    "clean_english_speech": "she writes letters",
+    "full_hindi_translation": "वह | लिखती है | पत्र",
+    "clean_hindi_speech": "वह लिखती है पत्र",
+    "target_word": "She",
+    "target_pos": "Pronoun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "She", "hi": "वह", "pos": "Pronoun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "writes", "hi": "लिखती है", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "letters", "hi": "पत्र", "pos": "Noun", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_1_Q4",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.1",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "They study English.",
+    "clean_english_speech": "they study english",
+    "full_hindi_translation": "वे | पढ़ते हैं | अंग्रेजी",
+    "clean_hindi_speech": "वे पढ़ते हैं अंग्रेजी",
+    "target_word": "They",
+    "target_pos": "Pronoun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "They", "hi": "वे", "pos": "Pronoun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "study", "hi": "पढ़ते हैं", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "English", "hi": "अंग्रेजी", "pos": "Noun", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_1_Q5",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.1",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "We like music.",
+    "clean_english_speech": "we like music",
+    "full_hindi_translation": "हम | पसंद करते हैं | संगीत",
+    "clean_hindi_speech": "हम पसंद करते हैं संगीत",
+    "target_word": "We",
+    "target_pos": "Pronoun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "We", "hi": "हम", "pos": "Pronoun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "like", "hi": "पसंद करते हैं", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "music", "hi": "संगीत", "pos": "Noun", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  }
+]
