@@ -1,0 +1,137 @@
+[
+  {
+    "item_id": "CH0_L0_2_Q1",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.2",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "Rahul stays in Mumbai.",
+    "clean_english_speech": "rahul stays in mumbai",
+    "full_hindi_translation": "राहुल | रहता है | मुंबई में",
+    "clean_hindi_speech": "राहुल रहता है मुंबई में",
+    "target_word": "Rahul",
+    "target_pos": "Proper Noun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "Rahul", "hi": "राहुल", "pos": "Proper Noun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "stays", "hi": "रहता है", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "in Mumbai", "hi": "मुंबई में", "pos": "Prepositional Phrase", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_2_Q2",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.2",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "Tanu is a student.",
+    "clean_english_speech": "tanu is a student",
+    "full_hindi_translation": "तनु | है | एक छात्रा",
+    "clean_hindi_speech": "तनु है एक छात्रा",
+    "target_word": "Tanu",
+    "target_pos": "Proper Noun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "Tanu", "hi": "तनु", "pos": "Proper Noun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "is", "hi": "है", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "a student", "hi": "एक छात्रा", "pos": "Noun Phrase", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_2_Q3",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.2",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "Birds fly high.",
+    "clean_english_speech": "birds fly high",
+    "full_hindi_translation": "पक्षी | उड़ते हैं | ऊँचा",
+    "clean_hindi_speech": "पक्षी उड़ते हैं ऊँचा",
+    "target_word": "Birds",
+    "target_pos": "Noun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "Birds", "hi": "पक्षी", "pos": "Noun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "fly", "hi": "उड़ते हैं", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "high", "hi": "ऊँचा", "pos": "Adjective", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_2_Q4",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.2",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "Dogs bark loudly.",
+    "clean_english_speech": "dogs bark loudly",
+    "full_hindi_translation": "कुत्ते | भौंकते हैं | जोर से",
+    "clean_hindi_speech": "कुत्ते भौंकते हैं जोर से",
+    "target_word": "Dogs",
+    "target_pos": "Noun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "Dogs", "hi": "कुत्ते", "pos": "Noun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "bark", "hi": "भौंकते हैं", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "loudly", "hi": "जोर से", "pos": "Adverb", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  },
+  {
+    "item_id": "CH0_L0_2_Q5",
+    "chapter_name": "Chapter 0: The Doer and The Receiver",
+    "lesson_number": "0.2",
+    "lesson_name": "The Doer",
+    "prompt_instruction": "Identify the Doer (Subject) in this sentence.",
+    "english_sentence": "Children love toys.",
+    "clean_english_speech": "children love toys",
+    "full_hindi_translation": "बच्चे | प्यार करते हैं | खिलौने",
+    "clean_hindi_speech": "बच्चे प्यार करते हैं खिलौने",
+    "target_word": "Children",
+    "target_pos": "Noun",
+    "target_role": "Doer",
+    "QWF": 1.0,
+    "is_question_mastered": false,
+    "modes": {
+      "mcq_identify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "fill_blank": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "svo_rearrange": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false },
+      "speech_verify": { "interTWF": 1.0, "intraTWF": 1.0, "is_mastered": false }
+    },
+    "mapping_json": [
+      { "en": "Children", "hi": "बच्चे", "pos": "Noun", "role": "Doer", "is_target": true, "sequence_order": 1 },
+      { "en": "love", "hi": "प्यार करते हैं", "pos": "Verb", "role": "Action", "is_target": false, "sequence_order": 2 },
+      { "en": "toys", "hi": "खिलौने", "pos": "Noun", "role": "Receiver", "is_target": false, "sequence_order": 3 }
+    ]
+  }
+]
