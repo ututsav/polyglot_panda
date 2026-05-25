@@ -1,6 +1,6 @@
 {
   "files_to_sync": [
-    { "url": "https://raw.githubusercontent.com/ututsav/polyglot_panda/main/Lesson01.json" },
-    { "url": "https://raw.githubusercontent.com/ututsav/polyglot_panda/main/Lesson02.json" }
+    { "url": "https://raw.githubusercontent.com/ututsav/polyglot_panda/refs/heads/main/Chapter00/Lesson01.json" },
+    { "url": "https://raw.githubusercontent.com/ututsav/polyglot_panda/refs/heads/main/Chapter00/Lesson02.json" }
   ]
 }
